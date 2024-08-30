@@ -1,0 +1,59 @@
+{
+  "type": "region",
+  "data": {
+    "name": "Region Baru",
+    "population": 10000
+  }
+}
+
+{
+    
+  "type": "job",
+  "data": {
+    "job_title": "Engineer",
+    "count": 50
+  }
+}
+
+{
+  "type": "education",
+  "data": {
+    "education_level": "Bachelor",
+    "count": 200
+  }
+}
+
+{
+  "type": "population",
+  "data": {
+    "total_population": 50000,
+    "male_population": 25000,
+    "female_population": 25000
+  }
+}
+
+{
+  "type": "marital_status",
+  "data": {
+    "status": "Married",
+    "count": 15000
+  }
+}
+
+
+{
+  "type": "religion",
+  "data": {
+    "religion_name": "Islam",
+    "count": 30000
+  }
+}
+
+{
+  "type": "voter",
+  "data": {
+    "name": "John Doe",
+    "status": "Active"
+  }
+}
+
