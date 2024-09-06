@@ -1,5 +1,5 @@
 const db = require('../Config/db');
-const bcrypt = require('bcrypt')
+const bcrypt = require('bcryptjs')
 const jwt = require('jsonwebtoken');
 const saltRounds = 10;
 const JWT_SECRET = 'kintilidinfuckyou12345678910';

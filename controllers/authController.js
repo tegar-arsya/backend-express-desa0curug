@@ -1,5 +1,5 @@
 
-const bcrypt = require('bcrypt');
+const bcrypt = require('bcryptjs');
 const { registerUser, findUserByEmail, generateToken } = require('../models/userModels');
 const register = async (req, res) => {
   const { name, email, password } = req.body; 
